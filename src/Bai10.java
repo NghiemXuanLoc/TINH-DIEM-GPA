@@ -3,7 +3,6 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Contest14.B10;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -14,7 +13,7 @@ import java.util.Scanner;
  *
  * @author PC
  */
-public class Bai10 {
+public class Main {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
